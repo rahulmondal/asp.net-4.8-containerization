@@ -1,0 +1,5 @@
+.idea
+.DS_Store
+packages
+EtoDockerTest/bin
+EtoDockerTest/obj
